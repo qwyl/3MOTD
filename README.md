@@ -1,5 +1,5 @@
 # 3MOTD
-Problem: “what should I eat?” 
+Problem: “what should I eat?” // 
 Solution: (fancy) random meal generator 
 
 Description: aesthetic meal generating app for the indecisive, is college student friendly: encourages cooking, promotes a healthy eating schedule and limits spending. Generates breakfast, lunch, dinner, snack.
